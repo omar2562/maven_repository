@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 06 09:30:54 BRT 2023
+concave-hull-0.pom>=
+concave-hull-0.jar>jfrog=
+concave-hull-0.jar>=
+concave-hull-0.pom>jfrog=

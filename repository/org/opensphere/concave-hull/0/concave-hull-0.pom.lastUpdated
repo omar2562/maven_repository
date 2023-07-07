@@ -1,0 +1,15 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 06 09:29:01 BRT 2023
+@default-talan-https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1688646540277
+https\://www.brockmann-consult.de/mvn/os/.lastUpdated=1688645981213
+https\://nexus.talanlabs.com/content/repositories/releases/.error=Could not transfer artifact org.opensphere\:concave-hull\:pom\:0 from/to talan (https\://nexus.talanlabs.com/content/repositories/releases/)\: Transfer failed for https\://nexus.talanlabs.com/content/repositories/releases/org/opensphere/concave-hull/0/concave-hull-0.pom
+https\://www.dcm4che.org/maven2/.error=Could not transfer artifact org.opensphere\:concave-hull\:pom\:0 from/to www.dcm4che.org (https\://www.dcm4che.org/maven2)\: Transfer failed for https\://www.dcm4che.org/maven2/org/opensphere/concave-hull/0/concave-hull-0.pom
+https\://repo.maven.apache.org/maven2/.lastUpdated=1688645981425
+https\://jaspersoft.jfrog.io/ui/native/third-party-ce-artifacts/.lastUpdated=1688646541127
+https\://repo.maven.apache.org/maven2/.error=
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact org.opensphere\:concave-hull\:pom\:0 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/org/opensphere/concave-hull/0/concave-hull-0.pom 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1688646519212
+https\://repository.primefaces.org/.lastUpdated=1688645959047
+https\://www.brockmann-consult.de/mvn/os/.error=
+https\://repository.primefaces.org/.error=
+@default-www.dcm4che.org-https\://www.dcm4che.org/maven2/.lastUpdated=1688646519114
