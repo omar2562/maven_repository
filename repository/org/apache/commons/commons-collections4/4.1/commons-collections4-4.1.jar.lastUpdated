@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 01 10:11:20 BRT 2022
+@default-talan-https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1648818680604
+https\://nexus.talanlabs.com/content/repositories/releases/.error=Could not transfer artifact org.apache.commons\:commons-collections4\:jar\:4.1 from/to talan (https\://nexus.talanlabs.com/content/repositories/releases/)\: Authentication failed for https\://nexus.talanlabs.com/content/repositories/releases/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar 401 Unauthorized
+https\://www.dcm4che.org/maven2/.lastUpdated=1648818677583
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1648818680945
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact org.apache.commons\:commons-collections4\:jar\:4.1 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1648818679653
+https\://repository.primefaces.org/.lastUpdated=1648818678580
+https\://repository.primefaces.org/.error=

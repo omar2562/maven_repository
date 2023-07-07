@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 16 11:33:29 BRT 2021
+https\://nexus.geomatys.com/repository/geotoolkit/.lastUpdated=1615905202923
+https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1615905187889
+https\://nexus.talanlabs.com/content/repositories/releases/.error=
+https\://nexus.geomatys.com/repository/geotoolkit/.error=
+https\://www.dcm4che.org/maven2/.lastUpdated=1615905181320
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1615905209377
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact commons-codec\:commons-codec\:jar\:1.13 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/commons-codec/commons-codec/1.13/commons-codec-1.13.jar 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1615905181656

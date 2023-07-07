@@ -1,0 +1,14 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 11 16:58:42 BRT 2022
+@default-talan-https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1665518322241
+https\://www.brockmann-consult.de/mvn/os/.lastUpdated=1665518290376
+https\://nexus.talanlabs.com/content/repositories/releases/.error=Could not transfer artifact com.github.jdiemke.delaunay-triangulator\:DelaunayTriangulator\:pom\:1.0.0 from/to talan (https\://nexus.talanlabs.com/content/repositories/releases/)\: Authentication failed for https\://nexus.talanlabs.com/content/repositories/releases/com/github/jdiemke/delaunay-triangulator/DelaunayTriangulator/1.0.0/DelaunayTriangulator-1.0.0.pom 401 Unauthorized
+https\://www.dcm4che.org/maven2/.lastUpdated=1665518287036
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1665518290902
+https\://repo.maven.apache.org/maven2/.error=
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact com.github.jdiemke.delaunay-triangulator\:DelaunayTriangulator\:pom\:1.0.0 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/com/github/jdiemke/delaunay-triangulator/DelaunayTriangulator/1.0.0/DelaunayTriangulator-1.0.0.pom 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1665518321387
+https\://repository.primefaces.org/.lastUpdated=1665518287943
+https\://www.brockmann-consult.de/mvn/os/.error=
+https\://repository.primefaces.org/.error=

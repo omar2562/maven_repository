@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 29 14:42:45 BRT 2022
+@default-talan-https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1664473364272
+https\://www.brockmann-consult.de/mvn/os/.lastUpdated=1664473365141
+https\://nexus.talanlabs.com/content/repositories/releases/.error=Could not transfer artifact org.primefaces\:primefaces-parent\:pom\:12.0.0-RC3 from/to talan (https\://nexus.talanlabs.com/content/repositories/releases/)\: Authentication failed for https\://nexus.talanlabs.com/content/repositories/releases/org/primefaces/primefaces-parent/12.0.0-RC3/primefaces-parent-12.0.0-RC3.pom 401 Unauthorized
+https\://www.dcm4che.org/maven2/.lastUpdated=1664473362998
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1664473365402
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact org.primefaces\:primefaces-parent\:pom\:12.0.0-RC3 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/org/primefaces/primefaces-parent/12.0.0-RC3/primefaces-parent-12.0.0-RC3.pom 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1664473364035
+https\://repository.primefaces.org/.lastUpdated=1664473363951
+https\://www.brockmann-consult.de/mvn/os/.error=
+https\://repository.primefaces.org/.error=

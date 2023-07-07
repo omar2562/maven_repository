@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 16:47:29 BRST 2023
+@default-talan-https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1676486848964
+https\://nexus.geomatys.com/repository/geotoolkit/.lastUpdated=1676486849661
+https\://nexus.talanlabs.com/content/repositories/releases/.error=Could not transfer artifact log4j\:log4j\:pom\:1.2.14 from/to talan (https\://nexus.talanlabs.com/content/repositories/releases/)\: Authentication failed for https\://nexus.talanlabs.com/content/repositories/releases/log4j/log4j/1.2.14/log4j-1.2.14.pom 401 Unauthorized
+https\://nexus.geomatys.com/repository/geotoolkit/.error=
+https\://www.dcm4che.org/maven2/.lastUpdated=1676486848645
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1676486849740
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact log4j\:log4j\:pom\:1.2.14 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/log4j/log4j/1.2.14/log4j-1.2.14.pom 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1676486848749

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 01 10:11:08 BRT 2022
+depgraph-maven-plugin-3.3.1.jar>central=
+depgraph-maven-plugin-3.3.1.pom>central=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 25 12:03:00 BRT 2021
+cruze-1.0.10.pom>primefaces=
+cruze-1.0.10.jar>PrimeFaces-maven-lib=
+cruze-1.0.10.pom>PrimeFaces-maven-lib=
+cruze-1.0.10.jar>primefaces=

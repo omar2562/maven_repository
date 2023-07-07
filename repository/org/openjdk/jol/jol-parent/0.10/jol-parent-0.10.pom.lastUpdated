@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 13 00:05:26 BRT 2021
+@default-talan-https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1636772725454
+https\://nexus.geomatys.com/repository/geotoolkit/.lastUpdated=1636772726136
+https\://nexus.talanlabs.com/content/repositories/releases/.error=Could not transfer artifact org.openjdk.jol\:jol-parent\:pom\:0.10 from/to talan (https\://nexus.talanlabs.com/content/repositories/releases/)\: Authentication failed for https\://nexus.talanlabs.com/content/repositories/releases/org/openjdk/jol/jol-parent/0.10/jol-parent-0.10.pom 401 Unauthorized
+https\://nexus.geomatys.com/repository/geotoolkit/.error=
+https\://www.dcm4che.org/maven2/.lastUpdated=1636772725143
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1636772726669
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact org.openjdk.jol\:jol-parent\:pom\:0.10 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/org/openjdk/jol/jol-parent/0.10/jol-parent-0.10.pom 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1636772725215

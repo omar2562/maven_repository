@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.kenai.nbpwr</groupId>
+        <artifactId>wrappers</artifactId>
+        <version>201002241055</version>
+    </parent>
+
+    <artifactId>org-apache-batik-all</artifactId>
+    <packaging>nbm</packaging>
+    <version>1.7-201002241055</version>
+    <name>Wrappers - Apache Batik</name>
+    <description>Apache Batik</description>
+
+    <dependencies>
+        <!--
+        <dependency>
+            <groupId>batik</groupId>
+            <artifactId>batik-anim</artifactId>
+            <version>1.7</version>
+        </dependency>
+        -->
+        <dependency>
+            <groupId>org.apache.xmlgraphics</groupId>
+            <artifactId>batik-awt-util</artifactId>
+            <version>1.7</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.xmlgraphics</groupId>
+            <artifactId>batik-bridge</artifactId>
+            <version>1.7</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.xmlgraphics</groupId>
+            <artifactId>batik-css</artifactId>
+            <version>1.7</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.xmlgraphics</groupId>
+            <artifactId>batik-dom</artifactId>
+            <version>1.7</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.xmlgraphics</groupId>
+            <artifactId>batik-ext</artifactId>
+            <version>1.7</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.xmlgraphics</groupId>
+            <artifactId>batik-gvt</artifactId>
+            <version>1.7</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.xmlgraphics</groupId>
+            <artifactId>batik-parser</artifactId>
+            <version>1.7</version>
+        </dependency>
+        <!--
+        <dependency>
+            <groupId>batik</groupId>
+            <artifactId>batik-script</artifactId>
+            <version>1.7</version>
+        </dependency>
+        -->
+        <dependency>
+            <groupId>org.apache.xmlgraphics</groupId>
+            <artifactId>batik-svg-dom</artifactId>
+            <version>1.7</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.xmlgraphics</groupId>
+            <artifactId>batik-transcoder</artifactId>
+            <version>1.7</version>
+            <exclusions>
+                <exclusion>
+                    <artifactId>fop</artifactId>
+                    <groupId>fop</groupId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.xmlgraphics</groupId>
+            <artifactId>batik-util</artifactId>
+            <version>1.7</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.xmlgraphics</groupId>
+            <artifactId>batik-xml</artifactId>
+            <version>1.7</version>
+        </dependency>
+
+        <dependency>
+            <groupId>xalan</groupId>
+            <artifactId>xalan</artifactId>
+            <version>2.4.1</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>nbm-maven-plugin</artifactId>
+                <configuration>
+                    <publicPackages>
+                        <publicPackage>org.apache.batik</publicPackage>
+                        <publicPackage>org.apache.batik.bridge</publicPackage>
+                        <publicPackage>org.apache.batik.bridge.svg12</publicPackage>
+                        <publicPackage>org.apache.batik.css.dom</publicPackage>
+                        <publicPackage>org.apache.batik.css.engine</publicPackage>
+                        <publicPackage>org.apache.batik.css.engine.sac</publicPackage>
+                        <publicPackage>org.apache.batik.css.engine.value</publicPackage>
+                        <publicPackage>org.apache.batik.css.engine.value.css2</publicPackage>
+                        <publicPackage>org.apache.batik.css.engine.value.svg</publicPackage>
+                        <publicPackage>org.apache.batik.css.engine.value.svg12</publicPackage>
+                        <publicPackage>org.apache.batik.css.parser</publicPackage>
+                        <publicPackage>org.apache.batik.dom</publicPackage>
+                        <publicPackage>org.apache.batik.dom.anim</publicPackage>
+                        <publicPackage>org.apache.batik.dom.events</publicPackage>
+                        <publicPackage>org.apache.batik.dom.svg</publicPackage>
+                        <publicPackage>org.apache.batik.dom.svg12</publicPackage>
+                        <publicPackage>org.apache.batik.dom.traversal</publicPackage>
+                        <publicPackage>org.apache.batik.dom.util</publicPackage>
+                        <publicPackage>org.apache.batik.dom.xbl</publicPackage>
+                        <publicPackage>org.apache.batik.gvt</publicPackage>
+                        <publicPackage>org.apache.batik.gvt.event</publicPackage>
+                        <publicPackage>org.apache.batik.gvt.filter</publicPackage>
+                        <publicPackage>org.apache.batik.gvt.flow</publicPackage>
+                        <publicPackage>org.apache.batik.gvt.font</publicPackage>
+                        <publicPackage>org.apache.batik.gvt.renderer</publicPackage>
+                        <publicPackage>org.apache.batik.gvt.svg12</publicPackage>
+                        <publicPackage>org.apache.batik.gvt.text</publicPackage>
+                        <publicPackage>org.apache.batik.i18n</publicPackage>
+                        <publicPackage>org.apache.batik.parser</publicPackage>
+                        <publicPackage>org.apache.batik.transcoder</publicPackage>
+                        <publicPackage>org.apache.batik.transcoder.image</publicPackage>
+                        <publicPackage>org.apache.batik.transcoder.image.resources</publicPackage>
+                        <publicPackage>org.apache.batik.transcoder.keys</publicPackage>
+                        <publicPackage>org.apache.batik.transcoder.print</publicPackage>
+                        <publicPackage>org.apache.batik.transcoder.svg2svg</publicPackage>
+                        <publicPackage>org.apache.batik.transcoder.wmf</publicPackage>
+                        <publicPackage>org.apache.batik.transcoder.wmf.tosvg</publicPackage>
+                        <publicPackage>org.apache.batik.util</publicPackage>
+                        <publicPackage>org.apache.batik.util.io</publicPackage>
+                        <publicPackage>org.apache.batik.util.resources</publicPackage>
+                        <publicPackage>org.apache.batik.xml</publicPackage>
+                        <publicPackage>org.w3c.css.sac</publicPackage>
+                        <publicPackage>org.w3c.css.sac.helpers</publicPackage>
+                        <publicPackage>org.w3c.dom.smil</publicPackage>
+                        <publicPackage>org.w3c.dom.svg</publicPackage>
+                    </publicPackages>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>
+
+
+
+
+
+
+

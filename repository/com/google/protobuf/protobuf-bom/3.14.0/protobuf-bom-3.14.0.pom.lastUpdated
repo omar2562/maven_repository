@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 26 19:23:38 BRT 2021
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1635287018756
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact com.google.protobuf\:protobuf-bom\:pom\:3.14.0 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/com/google/protobuf/protobuf-bom/3.14.0/protobuf-bom-3.14.0.pom 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1635287016437
+https\://nexus.geomatys.com/repository/geotoolkit/.error=
+https\://www.dcm4che.org/maven2/.lastUpdated=1635287016400
+https\://nexus.geomatys.com/repository/geotoolkit/.lastUpdated=1635287018514

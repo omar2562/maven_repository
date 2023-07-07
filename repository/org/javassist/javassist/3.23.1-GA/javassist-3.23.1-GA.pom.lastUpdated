@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 25 10:55:38 BRT 2022
+@default-talan-https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1650894938320
+https\://nexus.talanlabs.com/content/repositories/releases/.error=Could not transfer artifact org.javassist\:javassist\:pom\:3.23.1-GA from/to talan (https\://nexus.talanlabs.com/content/repositories/releases/)\: Transfer failed for https\://nexus.talanlabs.com/content/repositories/releases/org/javassist/javassist/3.23.1-GA/javassist-3.23.1-GA.pom
+https\://www.dcm4che.org/maven2/.lastUpdated=1650894936436
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1650894938596
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact org.javassist\:javassist\:pom\:3.23.1-GA from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/org/javassist/javassist/3.23.1-GA/javassist-3.23.1-GA.pom 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1650894937892
+https\://repository.primefaces.org/.lastUpdated=1650894937825
+https\://repository.primefaces.org/.error=

@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 16:33:26 BRST 2023
+@default-talan-https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1676486005511
+https\://nexus.geomatys.com/repository/geotoolkit/.lastUpdated=1676486006397
+https\://nexus.talanlabs.com/content/repositories/releases/.error=Could not transfer artifact com.toedter\:jcalendar\:pom\:1.3.2 from/to talan (https\://nexus.talanlabs.com/content/repositories/releases/)\: Authentication failed for https\://nexus.talanlabs.com/content/repositories/releases/com/toedter/jcalendar/1.3.2/jcalendar-1.3.2.pom 401 Unauthorized
+https\://nexus.geomatys.com/repository/geotoolkit/.error=
+https\://www.dcm4che.org/maven2/.lastUpdated=1676486004524
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1676486006528
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact com.toedter\:jcalendar\:pom\:1.3.2 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/com/toedter/jcalendar/1.3.2/jcalendar-1.3.2.pom 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1676486004679

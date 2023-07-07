@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 15 11:17:47 BRT 2021
+https\://jitpack.io/.error=
+https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1626358666546
+https\://nexus.talanlabs.com/content/repositories/releases/.error=
+https\://jitpack.io/.lastUpdated=1626358666603
+https\://www.dcm4che.org/maven2/.lastUpdated=1626358664460
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1626358667939
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact org.glassfish\:javax.faces\:jar\:2.2.20 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/org/glassfish/javax.faces/2.2.20/javax.faces-2.2.20.jar 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1626358665627
+https\://repository.primefaces.org/.lastUpdated=1626358665535
+https\://repository.primefaces.org/.error=

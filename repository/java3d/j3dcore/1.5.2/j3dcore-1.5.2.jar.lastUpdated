@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 16 11:33:07 BRT 2021
+https\://www.dcm4che.org/maven2/.error=
+https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1615905187923
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1615905181668
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact java3d\:j3dcore\:jar\:1.5.2 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/java3d/j3dcore/1.5.2/j3dcore-1.5.2.jar 403 Forbidden
+https\://www.dcm4che.org/maven2/.lastUpdated=1615905181329

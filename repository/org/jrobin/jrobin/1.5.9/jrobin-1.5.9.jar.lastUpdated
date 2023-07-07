@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 07 11:44:01 BRT 2021
+https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1625669039150
+https\://nexus.talanlabs.com/content/repositories/releases/.error=
+https\://www.dcm4che.org/maven2/.lastUpdated=1625669037056
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1625669041934
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact org.jrobin\:jrobin\:jar\:1.5.9 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/org/jrobin/jrobin/1.5.9/jrobin-1.5.9.jar 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1625669038240
+https\://repository.primefaces.org/.lastUpdated=1625669038098
+https\://repository.primefaces.org/.error=

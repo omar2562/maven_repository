@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 20 18:33:46 BRT 2021
+https\://repository.primefaces.org/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1626816826158
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1626816824903
+https\://repository.primefaces.org/.lastUpdated=1626816823700
+https\://www.dcm4che.org/maven2/.error=
+https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1626816825826
+https\://jitpack.io/.error=
+https\://www.dcm4che.org/maven2/.lastUpdated=1626816824788
+https\://jitpack.io/.lastUpdated=1626816823765
+https\://nexus.talanlabs.com/content/repositories/releases/.error=
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact org.glassfish.jaxb\:jaxb-bom\:pom\:2.3.1 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/org/glassfish/jaxb/jaxb-bom/2.3.1/jaxb-bom-2.3.1.pom 403 Forbidden

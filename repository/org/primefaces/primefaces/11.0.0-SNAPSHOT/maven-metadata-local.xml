@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.primefaces</groupId>
+  <artifactId>primefaces</artifactId>
+  <version>11.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20210713194605</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>jakarta</classifier>
+        <extension>jar</extension>
+        <value>11.0.0-SNAPSHOT</value>
+        <updated>20210713194605</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>11.0.0-SNAPSHOT</value>
+        <updated>20210713194605</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>11.0.0-SNAPSHOT</value>
+        <updated>20210713194605</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 20 18:33:53 BRT 2021
+https\://repository.primefaces.org/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1626816833540
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1626816832309
+https\://repository.primefaces.org/.lastUpdated=1626816830588
+https\://www.dcm4che.org/maven2/.error=
+https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1626816833214
+https\://jitpack.io/.error=
+https\://www.dcm4che.org/maven2/.lastUpdated=1626816832185
+https\://jitpack.io/.lastUpdated=1626816831176
+https\://nexus.talanlabs.com/content/repositories/releases/.error=
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact javax.jws\:javax.jws-api\:pom\:1.1 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/javax/jws/javax.jws-api/1.1/javax.jws-api-1.1.pom 403 Forbidden

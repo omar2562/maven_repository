@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 16 11:29:12 BRT 2021
+https\://nexus.geomatys.com/repository/geotoolkit/.lastUpdated=1615904951448
+https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1615904950742
+https\://nexus.talanlabs.com/content/repositories/releases/.error=
+https\://nexus.geomatys.com/repository/geotoolkit/.error=
+https\://www.dcm4che.org/maven2/.lastUpdated=1615904949765
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1615904952019
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact com.google.code.gson\:gson\:pom\:2.8.5 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/com/google/code/gson/gson/2.8.5/gson-2.8.5.pom 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1615904949823

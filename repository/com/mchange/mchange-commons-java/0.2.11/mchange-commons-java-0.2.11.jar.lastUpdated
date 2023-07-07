@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 25 10:56:08 BRT 2022
+@default-talan-https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1650894967567
+https\://nexus.talanlabs.com/content/repositories/releases/.error=Could not transfer artifact com.mchange\:mchange-commons-java\:jar\:0.2.11 from/to talan (https\://nexus.talanlabs.com/content/repositories/releases/)\: Transfer failed for https\://nexus.talanlabs.com/content/repositories/releases/com/mchange/mchange-commons-java/0.2.11/mchange-commons-java-0.2.11.jar
+https\://www.dcm4che.org/maven2/.lastUpdated=1650894962720
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1650894968750
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact com.mchange\:mchange-commons-java\:jar\:0.2.11 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/com/mchange/mchange-commons-java/0.2.11/mchange-commons-java-0.2.11.jar 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1650894966102
+https\://repository.primefaces.org/.lastUpdated=1650894966023
+https\://repository.primefaces.org/.error=

@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 25 10:55:46 BRT 2022
+@default-talan-https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1650894946629
+https\://nexus.talanlabs.com/content/repositories/releases/.error=Could not transfer artifact org.jboss.spec.javax.transaction\:jboss-transaction-api_1.2_spec\:pom\:1.1.1.Final from/to talan (https\://nexus.talanlabs.com/content/repositories/releases/)\: Transfer failed for https\://nexus.talanlabs.com/content/repositories/releases/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.pom
+https\://www.dcm4che.org/maven2/.lastUpdated=1650894945196
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1650894946884
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact org.jboss.spec.javax.transaction\:jboss-transaction-api_1.2_spec\:pom\:1.1.1.Final from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.pom 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1650894946200
+https\://repository.primefaces.org/.lastUpdated=1650894946138
+https\://repository.primefaces.org/.error=

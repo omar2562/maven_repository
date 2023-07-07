@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 17:24:28 BRST 2023
+@default-talan-https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1676489066444
+https\://nexus.geomatys.com/repository/geotoolkit/.lastUpdated=1676489067158
+https\://nexus.talanlabs.com/content/repositories/releases/.error=Could not transfer artifact com.github.virtuald\:curvesapi\:jar\:1.04 from/to talan (https\://nexus.talanlabs.com/content/repositories/releases/)\: Authentication failed for https\://nexus.talanlabs.com/content/repositories/releases/com/github/virtuald/curvesapi/1.04/curvesapi-1.04.jar 401 Unauthorized
+https\://nexus.geomatys.com/repository/geotoolkit/.error=
+https\://www.dcm4che.org/maven2/.lastUpdated=1676489065329
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1676489068891
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact com.github.virtuald\:curvesapi\:jar\:1.04 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/com/github/virtuald/curvesapi/1.04/curvesapi-1.04.jar 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1676489065546

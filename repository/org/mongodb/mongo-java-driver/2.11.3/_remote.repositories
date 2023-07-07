@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 10 17:14:06 BRT 2021
+mongo-java-driver-2.11.3.jar>central=
+mongo-java-driver-2.11.3.pom>central=

@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 10 10:25:58 BRT 2021
+https\://nexus.geomatys.com/repository/geotoolkit/.lastUpdated=1631280358006
+https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1631280356202
+https\://nexus.talanlabs.com/content/repositories/releases/.error=
+https\://nexus.geomatys.com/repository/geotoolkit/.error=
+https\://www.dcm4che.org/maven2/.lastUpdated=1631280354395
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1631280358721
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact commons-net\:commons-net\:pom\:3.8.0 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/commons-net/commons-net/3.8.0/commons-net-3.8.0.pom 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1631280354614

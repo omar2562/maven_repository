@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 11 18:13:21 BRT 2022
+@default-talan-https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1665522799795
+https\://www.brockmann-consult.de/mvn/os/.lastUpdated=1665522800728
+https\://nexus.talanlabs.com/content/repositories/releases/.error=Could not transfer artifact com.github.quickhull3d\:quickhull3d\:jar\:1.0.0 from/to talan (https\://nexus.talanlabs.com/content/repositories/releases/)\: Authentication failed for https\://nexus.talanlabs.com/content/repositories/releases/com/github/quickhull3d/quickhull3d/1.0.0/quickhull3d-1.0.0.jar 401 Unauthorized
+https\://www.dcm4che.org/maven2/.lastUpdated=1665522798093
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1665522801184
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact com.github.quickhull3d\:quickhull3d\:jar\:1.0.0 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/com/github/quickhull3d/quickhull3d/1.0.0/quickhull3d-1.0.0.jar 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1665522799562
+https\://repository.primefaces.org/.lastUpdated=1665522798993
+https\://www.brockmann-consult.de/mvn/os/.error=
+https\://repository.primefaces.org/.error=

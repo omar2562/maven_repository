@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 16 11:28:35 BRT 2021
+https\://nexus.geomatys.com/repository/geotoolkit/.lastUpdated=1615904915280
+https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1615904914567
+https\://nexus.talanlabs.com/content/repositories/releases/.error=
+https\://nexus.geomatys.com/repository/geotoolkit/.error=
+https\://www.dcm4che.org/maven2/.lastUpdated=1615904913593
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1615904915535
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact org.slf4j\:slf4j-log4j12\:pom\:1.6.1 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.pom 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1615904913654

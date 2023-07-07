@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 18 10:12:43 BRT 2023
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1684415563015
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact java3d\:j3dcore\:pom\:1.5.2 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/java3d/j3dcore/1.5.2/j3dcore-1.5.2.pom 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1615904932494
+https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1615904933684
+https\://www.dcm4che.org/maven2/.lastUpdated=1615904932436
+https\://repo.maven.apache.org/maven2/.error=

@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 17:19:32 BRST 2023
+@default-talan-https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1676488771840
+https\://nexus.geomatys.com/repository/geotoolkit/.lastUpdated=1676488772748
+https\://nexus.talanlabs.com/content/repositories/releases/.error=Could not transfer artifact net.sourceforge.jexcelapi\:jxl\:pom\:2.5.7 from/to talan (https\://nexus.talanlabs.com/content/repositories/releases/)\: Authentication failed for https\://nexus.talanlabs.com/content/repositories/releases/net/sourceforge/jexcelapi/jxl/2.5.7/jxl-2.5.7.pom 401 Unauthorized
+https\://nexus.geomatys.com/repository/geotoolkit/.error=
+https\://www.dcm4che.org/maven2/.lastUpdated=1676488770871
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1676488772858
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact net.sourceforge.jexcelapi\:jxl\:pom\:2.5.7 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/net/sourceforge/jexcelapi/jxl/2.5.7/jxl-2.5.7.pom 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1676488771003

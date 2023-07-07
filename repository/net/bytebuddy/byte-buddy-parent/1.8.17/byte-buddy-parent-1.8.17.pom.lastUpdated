@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 25 10:55:44 BRT 2022
+@default-talan-https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1650894943924
+https\://nexus.talanlabs.com/content/repositories/releases/.error=Could not transfer artifact net.bytebuddy\:byte-buddy-parent\:pom\:1.8.17 from/to talan (https\://nexus.talanlabs.com/content/repositories/releases/)\: Transfer failed for https\://nexus.talanlabs.com/content/repositories/releases/net/bytebuddy/byte-buddy-parent/1.8.17/byte-buddy-parent-1.8.17.pom
+https\://www.dcm4che.org/maven2/.lastUpdated=1650894942433
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1650894944236
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact net.bytebuddy\:byte-buddy-parent\:pom\:1.8.17 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/net/bytebuddy/byte-buddy-parent/1.8.17/byte-buddy-parent-1.8.17.pom 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1650894943479
+https\://repository.primefaces.org/.lastUpdated=1650894943424
+https\://repository.primefaces.org/.error=

@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 25 10:55:55 BRT 2022
+@default-talan-https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1650894954800
+https\://nexus.talanlabs.com/content/repositories/releases/.error=Could not transfer artifact org.hibernate.common\:hibernate-commons-annotations\:pom\:5.0.4.Final from/to talan (https\://nexus.talanlabs.com/content/repositories/releases/)\: Transfer failed for https\://nexus.talanlabs.com/content/repositories/releases/org/hibernate/common/hibernate-commons-annotations/5.0.4.Final/hibernate-commons-annotations-5.0.4.Final.pom
+https\://www.dcm4che.org/maven2/.lastUpdated=1650894953325
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1650894955062
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact org.hibernate.common\:hibernate-commons-annotations\:pom\:5.0.4.Final from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/org/hibernate/common/hibernate-commons-annotations/5.0.4.Final/hibernate-commons-annotations-5.0.4.Final.pom 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1650894954353
+https\://repository.primefaces.org/.lastUpdated=1650894954298
+https\://repository.primefaces.org/.error=

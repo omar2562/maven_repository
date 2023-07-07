@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 16:48:19 BRST 2023
+@default-talan-https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1676486897582
+https\://nexus.geomatys.com/repository/geotoolkit/.lastUpdated=1676486898515
+https\://nexus.talanlabs.com/content/repositories/releases/.error=Could not transfer artifact org.quartz-scheduler\:quartz\:jar\:1.8.3 from/to talan (https\://nexus.talanlabs.com/content/repositories/releases/)\: Authentication failed for https\://nexus.talanlabs.com/content/repositories/releases/org/quartz-scheduler/quartz/1.8.3/quartz-1.8.3.jar 401 Unauthorized
+https\://nexus.geomatys.com/repository/geotoolkit/.error=
+https\://www.dcm4che.org/maven2/.lastUpdated=1676486896591
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1676486899344
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact org.quartz-scheduler\:quartz\:jar\:1.8.3 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/org/quartz-scheduler/quartz/1.8.3/quartz-1.8.3.jar 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1676486896742

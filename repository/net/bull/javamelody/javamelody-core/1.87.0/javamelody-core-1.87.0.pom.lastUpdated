@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 07 11:43:52 BRT 2021
+https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1625669031550
+https\://nexus.talanlabs.com/content/repositories/releases/.error=
+https\://www.dcm4che.org/maven2/.lastUpdated=1625669028661
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1625669032477
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact net.bull.javamelody\:javamelody-core\:pom\:1.87.0 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/net/bull/javamelody/javamelody-core/1.87.0/javamelody-core-1.87.0.pom 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1625669029813
+https\://repository.primefaces.org/.lastUpdated=1625669029707
+https\://repository.primefaces.org/.error=

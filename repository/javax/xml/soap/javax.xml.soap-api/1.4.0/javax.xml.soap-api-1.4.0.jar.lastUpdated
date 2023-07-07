@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 20 18:26:45 BRT 2021
+https\://repository.primefaces.org/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1626816405412
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1626816403559
+https\://repository.primefaces.org/.lastUpdated=1626816401574
+https\://www.dcm4che.org/maven2/.error=
+https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1626816404487
+https\://jitpack.io/.error=
+https\://www.dcm4che.org/maven2/.lastUpdated=1626816403350
+https\://jitpack.io/.lastUpdated=1626816402223
+https\://nexus.talanlabs.com/content/repositories/releases/.error=
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact javax.xml.soap\:javax.xml.soap-api\:jar\:1.4.0 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/javax/xml/soap/javax.xml.soap-api/1.4.0/javax.xml.soap-api-1.4.0.jar 403 Forbidden

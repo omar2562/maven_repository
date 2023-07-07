@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>br.com.imedsys</groupId>
+    <artifactId>LyriaDVD</artifactId>
+    <version>1.0</version>
+    <packaging>jar</packaging>
+    <properties>
+        <project.build.sourceEncoding>ISO-8859-1</project.build.sourceEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+    
+    <profiles>
+
+        <profile>
+            <id>dev</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
+            <properties>
+                <env>dev</env>
+            </properties>
+        </profile>
+
+        <profile>
+            <id>prod</id>
+            <properties>
+                <env>prod</env>
+            </properties>
+        </profile>
+
+    </profiles>
+    
+    <repositories>
+        <repository>
+            <id>www.dcm4che.org</id>
+            <name>dcm4che Repository</name>
+            <url>https://www.dcm4che.org/maven2</url>
+        </repository>
+        <repository>
+            <id>dcm4che-imageio</id>
+            <name>dcm4che2 Repository</name>
+            <url>https://mvnrepository.com/artifact/dcm4che/dcm4che-imageio</url>
+        </repository>
+        <repository>
+            <id>talan</id>
+            <name>talan Repository</name>
+            <url>https://nexus.talanlabs.com/content/repositories/releases/</url>
+        </repository>  
+        <repository>
+            <id>geomatys</id>
+            <name>geomatys Repository</name>
+            <url>https://nexus.geomatys.com/repository/geotoolkit/</url>
+        </repository>        
+        <!--<repository>
+          <id>bintray-jai-imageio</id>
+          <name>jai-imageio at bintray</name>
+          <url>https://dl.bintray.com/jai-imageio/maven/</url>
+          <snapshots>
+            <enabled>false</enabled>
+          </snapshots>
+        </repository>-->
+
+    </repositories>
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/dcm4che/dcm4che-imageio -->
+        <!-- https://mvnrepository.com/artifact/dcm4che/dcm4che-core -->
+        <!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
+        <!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-log4j12 -->
+        <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-math3 -->
+        
+        <dependency>
+            <groupId>dcm4che</groupId>
+            <artifactId>dcm4che-core</artifactId>
+            <version>2.0.29</version>
+        </dependency>
+        <dependency>
+            <groupId>dcm4che</groupId>
+            <artifactId>dcm4che-net</artifactId>
+            <version>2.0.29</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/dcm4che/dcm4che-imageio -->
+        <dependency>
+            <groupId>dcm4che</groupId>
+            <artifactId>dcm4che-imageio</artifactId>
+            <version>2.0.29</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/dcm4che/dcm4che-iod -->
+        <dependency>
+            <groupId>dcm4che</groupId>
+            <artifactId>dcm4che-iod</artifactId>
+            <version>2.0.29</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/commons-codec/commons-codec -->
+        <dependency>
+            <groupId>commons-codec</groupId>
+            <artifactId>commons-codec</artifactId>
+            <version>1.13</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
+        <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+            <version>2.6</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.mortennobel/java-image-scaling -->
+        <dependency>
+            <groupId>com.mortennobel</groupId>
+            <artifactId>java-image-scaling</artifactId>
+            <version>0.8.6</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/batik/batik-ext -->
+        <dependency>
+            <groupId>org.apache.xmlgraphics</groupId>
+            <artifactId>batik-awt-util</artifactId>
+            <version>1.9</version>
+        </dependency>
+        <!-- Thanks for using https://jar-download.com -->
+
+
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>1.6.1</version>
+        </dependency>
+        
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-log4j12</artifactId>
+            <version>1.6.1</version>
+            <scope>compile</scope>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/log4j/log4j -->
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>1.2.17</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-math3</artifactId>
+            <version>3.6.1</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/java3d/j3d-core-utils -->
+        
+        <!-- https://mvnrepository.com/artifact/java3d/j3dcore 
+        <dependency>
+            <groupId>java3d</groupId>
+            <artifactId>j3dcore</artifactId>
+            <version>1.5.2</version>
+        </dependency>-->
+
+        <!-- https://mvnrepository.com/artifact/java3d/j3dutils -->
+        <dependency>
+            <groupId>java3d</groupId>
+            <artifactId>j3dutils</artifactId>
+            <version>1.5.2</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/javax.vecmath/vecmath -->
+        <dependency>
+            <groupId>javax.vecmath</groupId>
+            <artifactId>vecmath</artifactId>
+            <version>1.5.2</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/com.vividsolutions/jts -->
+        <dependency>
+            <groupId>com.vividsolutions</groupId>
+            <artifactId>jts</artifactId>
+            <version>1.13</version>
+        </dependency>
+        <!--<dependency>
+            <groupId>com.github.jai-imageio</groupId>
+            <artifactId>jai-imageio-core</artifactId>
+            <version>1.3.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.sun.media</groupId>
+            <artifactId>jai_imageio</artifactId>
+            <version>1.2-pre-dr-b04</version>
+        </dependency>
+        -->
+        <dependency>
+            <groupId>com.sun.media</groupId>
+            <artifactId>jai_imageio</artifactId>
+            <version>1.1</version>
+        </dependency>  
+        <dependency>
+            <groupId>javax.media</groupId>
+            <artifactId>jai_core</artifactId>
+            <version>1.1.3</version>
+        </dependency>   
+        <dependency>
+            <groupId>javax.media</groupId>
+            <artifactId>jai_codec</artifactId>
+            <version>1.1.3</version>
+        </dependency> 
+        <!--<dependency>
+            <groupId>javax.media</groupId>
+            <artifactId>jai_core</artifactId>
+            <version>1.1.3</version>
+        </dependency>
+        
+         https://mvnrepository.com/artifact/org.opentripplanner/otp 
+        <dependency>
+            <groupId>org.opentripplanner</groupId>
+            <artifactId>otp</artifactId>
+            <version>1.0.0</version>
+        </dependency>-->
+        
+        <!-- 3rd party JARs -->
+        <dependency>
+            <groupId>org.opensphere</groupId>
+            <artifactId>concave-hull</artifactId>
+            <version>0</version>
+        </dependency>
+        
+        <!-- gson parser json to object -->
+        <dependency>
+		<groupId>com.google.code.gson</groupId>
+		<artifactId>gson</artifactId>
+		<version>2.8.5</version>
+	</dependency>
+        <dependency>
+            <groupId>org.jclarion</groupId>
+            <artifactId>image4j</artifactId>
+            <version>0.7</version>
+        </dependency>
+        <!-- mysql driver -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.17</version>
+        </dependency>
+        <dependency>
+  		<groupId>de.lighti</groupId>
+  		<artifactId>Clipper</artifactId>
+  		<version>6.4.2</version>
+  	</dependency>
+        <!-- https://mvnrepository.com/artifact/commons-net/commons-net -->
+        <dependency>
+            <groupId>commons-net</groupId>
+            <artifactId>commons-net</artifactId>
+            <version>3.8.0</version>
+        </dependency>
+    </dependencies>
+    
+    <build>
+        <!-- Loading all ${} -->
+        <filters>
+            <filter>src/main/resources/env/config.${env}.properties</filter>
+        </filters>
+        
+        <!-- Map ${} into resources -->
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <filtering>true</filtering>
+            </resource>
+        </resources>
+        <plugins>
+            <plugin>    
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.1</version>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>exec-maven-plugin</artifactId>
+                <version>1.2.1</version>
+                <configuration>
+                    <mainClass>br.com.imedsys.lyria.dvd.GUIRTViewerFrame</mainClass>
+                    <arguments>
+                        <argument>1.3.12.2.1107.5.1.4.46736.30000017070711053135900000001</argument>
+                    </arguments>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-dependency-plugin</artifactId>
+                <version>3.1.1</version>
+                <executions>
+                    <execution>
+                        <id>copy-dependencies</id>
+                        <phase>prepare-package</phase>
+                        <goals>
+                            <goal>copy-dependencies</goal>
+                        </goals>
+                        <configuration>
+                            <outputDirectory>
+                                ${project.build.directory}/libs
+                            </outputDirectory>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>3.2.0</version>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <addClasspath>true</addClasspath>
+                            <classpathPrefix>libs/</classpathPrefix>
+                            <mainClass>
+                                br.com.imedsys.lyria.dvd.GUIRTViewerFrame
+                            </mainClass>
+                        </manifest>
+                    </archive>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-assembly-plugin</artifactId>
+                <version>3.2.0</version>
+                <configuration>
+                    <descriptorRefs>
+                        <descriptorRef>jar-with-dependencies</descriptorRef>
+                    </descriptorRefs>
+                    <archive>
+                        <manifest>
+                            <mainClass>br.com.imedsys.lyria.dvd.GUIRTViewerFrame</mainClass>
+                            <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
+                            <addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
+                        </manifest>
+                        <manifestEntries>
+                            <Specification-Vendor>i-medsys</Specification-Vendor>
+                            <Implementation-Vendor>i-medsys</Implementation-Vendor>
+                        </manifestEntries>
+                    </archive>
+                    <descriptors>
+                        <descriptor>descriptor.xml</descriptor>
+                    </descriptors>
+                </configuration>
+                <executions>
+                    <execution>
+                        <id>make-assembly</id> 
+                        <phase>package</phase> 
+                        <goals>
+                            <goal>single</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+            <!--<plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-shade-plugin</artifactId>
+        <version>3.2.2</version>
+        <executions>
+          <execution>
+            <phase>package</phase>
+            <goals>
+              <goal>shade</goal>
+            </goals>
+            <configuration>
+              <transformers>
+                <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                  <manifestEntries>
+                    <Main-Class>br.com.imedsys.lyria.dvd.GUIRTViewerFrame</Main-Class>
+                    <Build-Number>1</Build-Number>
+                    <Specification-Title>Java Advanced Imaging Image I/O Tools</Specification-Title>
+                <Specification-Version>1.1</Specification-Version>
+                <Specification-Vendor>Sun Microsystems, Inc.</Specification-Vendor>
+                <Implementation-Title>com.sun.media.imageio</Implementation-Title>
+                <Implementation-Version>1.1</Implementation-Version>
+                <Implementation-Vendor>Sun Microsystems, Inc.</Implementation-Vendor>
+                <Extension-Name>com.sun.media.imageio</Extension-Name>
+                  </manifestEntries>
+                </transformer>
+              </transformers>
+            </configuration>
+          </execution>
+        </executions>
+      </plugin>
+      -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jarsigner-plugin</artifactId>
+                <version>3.0.0</version>
+                <executions>
+                    <execution>
+                        <id>sign</id>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>sign</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <keystore>keystore/sipradKeys</keystore>
+                    <alias>siprad</alias>
+                    <storepass>siprad2020</storepass>
+                    <keypass>2020siprad</keypass>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>

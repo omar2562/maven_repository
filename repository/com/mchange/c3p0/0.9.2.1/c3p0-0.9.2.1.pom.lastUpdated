@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 25 11:03:38 BRT 2022
+@default-talan-https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1650895418650
+https\://nexus.talanlabs.com/content/repositories/releases/.error=Could not transfer artifact com.mchange\:c3p0\:pom\:0.9.2.1 from/to talan (https\://nexus.talanlabs.com/content/repositories/releases/)\: Transfer failed for https\://nexus.talanlabs.com/content/repositories/releases/com/mchange/c3p0/0.9.2.1/c3p0-0.9.2.1.pom
+https\://www.dcm4che.org/maven2/.lastUpdated=1650895417239
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1650895418894
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact com.mchange\:c3p0\:pom\:0.9.2.1 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/com/mchange/c3p0/0.9.2.1/c3p0-0.9.2.1.pom 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1650895418232
+https\://repository.primefaces.org/.lastUpdated=1650895418183
+https\://repository.primefaces.org/.error=

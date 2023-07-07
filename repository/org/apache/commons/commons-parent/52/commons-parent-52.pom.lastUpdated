@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 07 17:35:42 BRT 2021
+https\://nexus.talanlabs.com/content/repositories/releases/.lastUpdated=1617827741787
+https\://nexus.talanlabs.com/content/repositories/releases/.error=
+https\://www.dcm4che.org/maven2/.lastUpdated=1617827740229
+https\://www.dcm4che.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1617827742209
+https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.error=Could not transfer artifact org.apache.commons\:commons-parent\:pom\:52 from/to dcm4che-imageio (https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio)\: Authorization failed for https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/org/apache/commons/commons-parent/52/commons-parent-52.pom 403 Forbidden
+@default-dcm4che-imageio-https\://mvnrepository.com/artifact/dcm4che/dcm4che-imageio/.lastUpdated=1617827741076
+https\://repository.primefaces.org/.lastUpdated=1617827740988
+https\://repository.primefaces.org/.error=
